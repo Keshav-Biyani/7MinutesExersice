@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">exersicemesure</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="timer">10</string>
+    <string name="Exerscise_name">round_back</string>
+    <string name="upcoming_exersise_name">Upcoming Exersise Name</string>
+    <string name="textvlaue">5</string>
+    <string name="image">"image "</string>
+    <string name="congratulations">Congratulations!</string>
+</resources>
